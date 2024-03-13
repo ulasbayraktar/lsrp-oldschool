@@ -1,6 +1,6 @@
 # LSRP Old-school
 
-The OldSchool theme for PHPB33 on LSRP. This is a replica. It may have some minor differences compared to the original theme.
+The OldSchool theme for the PHPBB3 Forum on LSRP. This is a replica. It may have some minor differences compared to the original theme.
 
 ## How to install?
 
