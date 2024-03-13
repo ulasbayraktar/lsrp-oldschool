@@ -8,4 +8,4 @@ Place the theme from the 'styles' folder into the 'styles' directory located in 
 
 ## Theme Image
 
-![image](https://github.com/ulasbayraktar/lsrp-oldschool/assets/73671806/a1cd8dbd-368d-4c45-8fe7-2996db7c609b)
+![image](https://github.com/ulasbayraktar/lsrp-oldschool/assets/73671806/79a83673-b457-4a35-a603-034765292c80)
