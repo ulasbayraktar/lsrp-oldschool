@@ -1,4 +1,4 @@
-# LSRP Old-school
+# LS-RP Oldschool
 
 The OldSchool theme for the PHPBB3 Forum on LSRP. This is a replica. It may have some minor differences compared to the original theme.
 
